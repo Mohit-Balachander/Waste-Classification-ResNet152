@@ -1,0 +1,26 @@
+# Python Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache files
+__pycache__/
+*.pyc
+
+# Trained Models (Large binary files)
+*.h5
+
+# Generated Output Files (Artifacts)
+*.png
+*.jpeg
+*.jpg
+
+# Compressed Archives
+*.zip
+
+# Dataset Folder (Too large for Git, host elsewhere and instruct in README)
+MultiClassDataset/
+
+# Editor/IDE specific settings
+.vscode/
+.idea/
