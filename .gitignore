@@ -24,3 +24,7 @@ MultiClassDataset/
 # Editor/IDE specific settings
 .vscode/
 .idea/
+
+# Local utility and test scripts
+detailed_test.py
+count_dataset.py
