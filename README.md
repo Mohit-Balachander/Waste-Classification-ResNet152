@@ -13,3 +13,6 @@ A deep learning model using ResNet152 and TensorFlow to classify waste into six 
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
